@@ -1,0 +1,1 @@
+export const acctFactoryAddress = '0xb30136e5C66e442F12cc71dcE1262FD8ef2A2337';
