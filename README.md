@@ -35,7 +35,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Author
 
-[Sarah](https://github.com/BenFaruna/)
+[Benjamin Faruna](https://github.com/BenFaruna/)
 
 ## License
 
